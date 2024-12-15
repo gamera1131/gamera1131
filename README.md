@@ -11,7 +11,6 @@ I want to be security engineer.
 
 My YouTube:(https://www.youtube.com/@gamera131)   
 
-## --------------------------------------------  
 ## 你好！！ 欢迎来到我的Github  
 
 我是千叶工业大学的学生。  
