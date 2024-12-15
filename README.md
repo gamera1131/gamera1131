@@ -1,4 +1,4 @@
-## Hi!!  welcome to my Github<br>
+## Hi!!  welcome to my Github
 
 I'm enrolled at Chiba Institute of Technology.  
 I has studied Elementary programs in the College of Applied Chinese Studies at Beijin Language and Culuture University from   March 2,2024 to March 30,2024.  
