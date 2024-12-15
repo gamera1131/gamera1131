@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi!!  welcome to my GitHub
+![use lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gamera1131&layout=compact)
 <!--
 **gamera1131/gamera1131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
