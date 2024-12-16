@@ -6,7 +6,7 @@ I passed HSK grade 3. I'm preparing for HSK grade 4.
 I want to be security engineer.  
 
 
-![use lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gamera1131&layout=compact)  
+![use lang]()  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gamera1131&show_icons=true)
 
 My YouTube:(https://www.youtube.com/@gamera131)   
